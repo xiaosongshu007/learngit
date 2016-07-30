@@ -8,3 +8,4 @@ hello world
   一脸之间
  第二次测试
 hahahhaha,wwwwww
+last delete test
